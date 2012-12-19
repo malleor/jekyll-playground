@@ -1,5 +1,15 @@
 ---
 ---
+# All posts
+
++++
+
+{% for project in site.posts %}
+- **{{ project.title }}** -- {{ project.content }}
+{% endfor %}
+
++++
+
 # Projects
 
 +++
