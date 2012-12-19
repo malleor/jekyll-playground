@@ -4,6 +4,8 @@
 
 +++
 
+Posts? {% if site.total_posts == 0 %} NO {% else %} YES, {{ site.total_posts }} {% endif %}
+
 {% for project in site.posts %}
 - AAA
 {% endfor %}
