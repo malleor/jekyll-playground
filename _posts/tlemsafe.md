@@ -1,6 +1,5 @@
 ---
 title: TLEMsafe
-categories: [projects]
-layout: nil
+category: projects
 ---
 This is a 7th Framework Programme project. 

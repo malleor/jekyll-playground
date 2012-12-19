@@ -1,6 +1,5 @@
 ---
 title: FRAMES
-categories: [projects]
-layout: nil
+category: projects
 ---
 This is an internal project, blah blah. 
