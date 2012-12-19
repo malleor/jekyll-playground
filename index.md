@@ -5,7 +5,7 @@
 +++
 
 {% for project in site.posts %}
-- **{{ project.title }}** -- {{ project.content }}
+- AAA
 {% endfor %}
 
 +++
