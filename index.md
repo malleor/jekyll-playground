@@ -15,4 +15,8 @@
 
 # Team members
 
+{% for member in site.categories.members %}
+{{ member.content }}
+{% endfor %}
+
 # News
